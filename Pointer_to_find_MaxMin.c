@@ -20,6 +20,7 @@ int main() {
     }
     printMaxMin(numbers,5,&big,&small);
     printf("largest=%d\n",big);
+    printf("rudra");
     printf("smalllest is %d\n",small);
     return 0;
 }
